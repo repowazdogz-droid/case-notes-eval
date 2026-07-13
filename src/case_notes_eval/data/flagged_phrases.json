@@ -1,0 +1,3084 @@
+[
+  {
+    "phrase": "angry",
+    "variants": [
+      "was angry",
+      "is angry",
+      "got angry",
+      "very angry",
+      "angrily"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "States an internal feeling as fact rather than describing observable behaviour.",
+    "suggestion": "Describe what was seen and heard, e.g. raised voice, clenched fists, what happened just before."
+  },
+  {
+    "phrase": "upset",
+    "variants": [
+      "was upset",
+      "got upset",
+      "really upset",
+      "so upset",
+      "upset again"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Names a feeling without evidence; 'appeared upset when...' tied to observation is fine, a bare label is not.",
+    "suggestion": "Record the observable signs (crying, withdrew, went quiet) and the trigger."
+  },
+  {
+    "phrase": "sad",
+    "variants": [
+      "was sad",
+      "seemed sad",
+      "felt sad",
+      "looked sad"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Asserts an internal state as fact.",
+    "suggestion": "Describe behaviour: tearful, head down, quiet; note what preceded it."
+  },
+  {
+    "phrase": "happy",
+    "variants": [
+      "was happy",
+      "seemed happy",
+      "very happy",
+      "happy enough"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "A bare positive label can mask issues and gives no evidence.",
+    "suggestion": "Describe what the child did or said that suggested this (smiling, laughing, sought out activity)."
+  },
+  {
+    "phrase": "moody",
+    "variants": [
+      "was moody",
+      "being moody",
+      "in a moody",
+      "moodiness"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "Labels mood as fact and carries judgement.",
+    "suggestion": "Describe the specific changes observed and when they occurred."
+  },
+  {
+    "phrase": "grumpy",
+    "variants": [
+      "was grumpy",
+      "being grumpy",
+      "woke up grumpy"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "Judgemental shorthand for unspecified behaviour.",
+    "suggestion": "State what was observed (short replies, frowning, declined breakfast) and any trigger."
+  },
+  {
+    "phrase": "in a mood",
+    "variants": [
+      "in a bad mood",
+      "in one of his moods",
+      "in one of her moods",
+      "in a foul mood"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "Asserts an internal state and implies a pattern without evidence.",
+    "suggestion": "Record the observable behaviour, time and context instead of the mood label."
+  },
+  {
+    "phrase": "anxious",
+    "variants": [
+      "was anxious",
+      "is anxious",
+      "got anxious",
+      "very anxious"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "A bare clinical-sounding label without observed signs or trigger.",
+    "suggestion": "Use qualified, evidenced wording: 'appeared anxious when... (pacing, asking repeated questions)'."
+  },
+  {
+    "phrase": "stressed",
+    "variants": [
+      "was stressed",
+      "got stressed",
+      "stressed out",
+      "really stressed"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Names a state as fact without evidence.",
+    "suggestion": "Describe the signs observed and what was happening at the time."
+  },
+  {
+    "phrase": "frustrated",
+    "variants": [
+      "was frustrated",
+      "got frustrated",
+      "clearly frustrated"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Interprets feeling as fact; fine only when tied to observation ('expressed frustration by...').",
+    "suggestion": "Describe how frustration was expressed and the trigger."
+  },
+  {
+    "phrase": "jealous",
+    "variants": [
+      "was jealous",
+      "is jealous",
+      "got jealous",
+      "jealousy"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "Attributes a feeling and implied motive without evidence.",
+    "suggestion": "Record what the child said or did; quote their own words if they named a feeling."
+  },
+  {
+    "phrase": "bored",
+    "variants": [
+      "was bored",
+      "got bored",
+      "seemed bored",
+      "boredom"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Interpretation of internal state presented as fact.",
+    "suggestion": "Describe behaviour (left activity, said 'this is boring' in quotes, looked away)."
+  },
+  {
+    "phrase": "miserable",
+    "variants": [
+      "was miserable",
+      "looked miserable",
+      "being miserable"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "Judgement-laden feeling label with no evidence.",
+    "suggestion": "Describe observable presentation and context."
+  },
+  {
+    "phrase": "fed up",
+    "variants": [
+      "was fed up",
+      "got fed up",
+      "fed up with"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Informal feeling label stated as fact.",
+    "suggestion": "Quote the child's words or describe the behaviour that suggested this."
+  },
+  {
+    "phrase": "furious",
+    "variants": [
+      "was furious",
+      "absolutely furious",
+      "went furious"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "Intense feeling label asserted as fact.",
+    "suggestion": "Describe the specific behaviour, volume, words used and what preceded them."
+  },
+  {
+    "phrase": "cross",
+    "variants": [
+      "was cross",
+      "got cross",
+      "very cross"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Asserts feeling as fact.",
+    "suggestion": "Describe what was seen/heard and the trigger."
+  },
+  {
+    "phrase": "annoyed",
+    "variants": [
+      "was annoyed",
+      "got annoyed",
+      "clearly annoyed"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Interprets internal state without evidence.",
+    "suggestion": "Record the observable response and what it followed."
+  },
+  {
+    "phrase": "hyper",
+    "variants": [
+      "was hyper",
+      "being hyper",
+      "gone hyper",
+      "hyped up"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "Vague informal label for arousal level with no description.",
+    "suggestion": "Describe the actual activity level (running between rooms, talking quickly) and duration."
+  },
+  {
+    "phrase": "sulking",
+    "variants": [
+      "sulked",
+      "in a sulk",
+      "having a sulk",
+      "sulky"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "medium",
+    "why": "Judgemental interpretation of withdrawal.",
+    "suggestion": "Describe the behaviour neutrally (sat apart, did not respond when spoken to) and the context."
+  },
+  {
+    "phrase": "emotional",
+    "variants": [
+      "was emotional",
+      "got emotional",
+      "very emotional",
+      "being emotional"
+    ],
+    "category": "EMOTIONAL LABEL",
+    "severity": "low",
+    "why": "Vague catch-all label that records nothing specific.",
+    "suggestion": "Name what was observed (tearful, shaking, raised voice) and when."
+  },
+  {
+    "phrase": "lazy",
+    "variants": [
+      "is lazy",
+      "was lazy",
+      "being lazy",
+      "so lazy",
+      "laziness"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Judges the child's character rather than describing behaviour.",
+    "suggestion": "Record the specific task, what the child did or did not do, and any context (tiredness, understanding)."
+  },
+  {
+    "phrase": "rude",
+    "variants": [
+      "was rude",
+      "being rude",
+      "very rude",
+      "rudely",
+      "rudeness"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "A character judgement that hides what was actually said or done.",
+    "suggestion": "Quote or describe the words/actions and the situation in which they occurred."
+  },
+  {
+    "phrase": "naughty",
+    "variants": [
+      "was naughty",
+      "being naughty",
+      "naughtiness",
+      "naughty behaviour"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Moral judgement of the child rather than a record of behaviour.",
+    "suggestion": "Describe the specific action, time and what happened before and after."
+  },
+  {
+    "phrase": "cheeky",
+    "variants": [
+      "was cheeky",
+      "being cheeky",
+      "cheekiness",
+      "a bit cheeky"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Judgemental label that doesn't record what was said.",
+    "suggestion": "Quote the child's words and describe the tone and context."
+  },
+  {
+    "phrase": "spoilt",
+    "variants": [
+      "spoiled",
+      "is spoilt",
+      "spoilt brat",
+      "acts spoilt"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Blames the child's character and family without evidence.",
+    "suggestion": "Describe the behaviour and the circumstances; avoid commentary on upbringing."
+  },
+  {
+    "phrase": "manipulative",
+    "variants": [
+      "is manipulative",
+      "being manipulative",
+      "manipulates",
+      "manipulated staff"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Attributes calculated intent to a child; stigmatising and often misreads attachment-seeking behaviour.",
+    "suggestion": "Describe what the child said/did to whom, in sequence, without interpreting intent."
+  },
+  {
+    "phrase": "sly",
+    "variants": [
+      "is sly",
+      "being sly",
+      "slyly"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Imputes deceitful character.",
+    "suggestion": "Record the observed actions factually and let the sequence speak for itself."
+  },
+  {
+    "phrase": "sneaky",
+    "variants": [
+      "is sneaky",
+      "being sneaky",
+      "sneakily",
+      "sneaked around"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Character judgement implying dishonesty.",
+    "suggestion": "Describe the action seen (e.g. took item from kitchen at 7pm) without trait labels."
+  },
+  {
+    "phrase": "dishonest",
+    "variants": [
+      "is dishonest",
+      "being dishonest",
+      "dishonesty"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Labels the child rather than recording the discrepancy observed.",
+    "suggestion": "Record what the child said and what was found, and note the difference factually."
+  },
+  {
+    "phrase": "a liar",
+    "variants": [
+      "is a liar",
+      "liar",
+      "lies all the time",
+      "always lying"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Behaviour-as-identity; destroys trust in the record and the child.",
+    "suggestion": "State what was said and what evidence differed, e.g. 'X said... ; staff observed...'."
+  },
+  {
+    "phrase": "selfish",
+    "variants": [
+      "is selfish",
+      "being selfish",
+      "selfishly",
+      "selfishness"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Moral judgement of character.",
+    "suggestion": "Describe the specific interaction and what each person did."
+  },
+  {
+    "phrase": "stubborn",
+    "variants": [
+      "is stubborn",
+      "being stubborn",
+      "stubbornly",
+      "stubbornness"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Trait label instead of a description of choices made.",
+    "suggestion": "Record what was offered/asked, the child's response, and any reason they gave."
+  },
+  {
+    "phrase": "immature",
+    "variants": [
+      "is immature",
+      "very immature",
+      "immaturity",
+      "immature for his age"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Developmental judgement made informally; belongs in assessment by qualified professionals, not labels.",
+    "suggestion": "Describe the specific behaviour and the child's age/stage context factually."
+  },
+  {
+    "phrase": "childish",
+    "variants": [
+      "being childish",
+      "so childish",
+      "childishly"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Dismissive judgement of a child for being a child.",
+    "suggestion": "Describe the behaviour without comparison or judgement."
+  },
+  {
+    "phrase": "badly behaved",
+    "variants": [
+      "bad behaviour",
+      "behaved badly",
+      "poor behaviour",
+      "misbehaved",
+      "misbehaving"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Summarises with judgement and records no actual events.",
+    "suggestion": "List the specific behaviours, times and triggers instead of a verdict."
+  },
+  {
+    "phrase": "disrespectful",
+    "variants": [
+      "was disrespectful",
+      "being disrespectful",
+      "disrespect",
+      "no respect"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Judges attitude rather than recording words/actions.",
+    "suggestion": "Quote what was said and describe tone, audience and context."
+  },
+  {
+    "phrase": "ungrateful",
+    "variants": [
+      "is ungrateful",
+      "being ungrateful",
+      "no gratitude"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Moralises about the child's response; irrelevant and judgemental in a record.",
+    "suggestion": "Record what was offered and how the child responded, factually."
+  },
+  {
+    "phrase": "demanding",
+    "variants": [
+      "is demanding",
+      "very demanding",
+      "so demanding"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Frames needs-expression as a character flaw.",
+    "suggestion": "Record what the child asked for, how often, and the responses given."
+  },
+  {
+    "phrase": "clingy",
+    "variants": [
+      "is clingy",
+      "being clingy",
+      "very clingy",
+      "clinginess"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Dismissive label for attachment-seeking behaviour.",
+    "suggestion": "Describe proximity-seeking behaviour neutrally (stayed close to carer, asked carer not to leave)."
+  },
+  {
+    "phrase": "needy",
+    "variants": [
+      "is needy",
+      "very needy",
+      "being needy",
+      "neediness"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Pathologises a child's need for care.",
+    "suggestion": "Describe what the child sought and how adults responded."
+  },
+  {
+    "phrase": "difficult",
+    "variants": [
+      "is difficult",
+      "being difficult",
+      "a difficult child",
+      "so difficult"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Locates the problem in the child as a trait.",
+    "suggestion": "Describe the specific situation, behaviour and what made it hard to manage."
+  },
+  {
+    "phrase": "awkward",
+    "variants": [
+      "being awkward",
+      "is awkward",
+      "deliberately awkward"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Judges the child as obstructive instead of recording the interaction.",
+    "suggestion": "Record the request, the response, and any reasons the child gave."
+  },
+  {
+    "phrase": "nasty",
+    "variants": [
+      "was nasty",
+      "being nasty",
+      "nasty piece of work",
+      "nastiness"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Hostile character judgement with no place in a professional record.",
+    "suggestion": "Quote/describe exactly what was said or done and to whom."
+  },
+  {
+    "phrase": "spiteful",
+    "variants": [
+      "is spiteful",
+      "being spiteful",
+      "out of spite",
+      "spitefully"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Imputes malicious character and motive.",
+    "suggestion": "Describe the action and sequence of events without inferring intent."
+  },
+  {
+    "phrase": "devious",
+    "variants": [
+      "is devious",
+      "being devious",
+      "deviously"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Imputes scheming character to a child.",
+    "suggestion": "Record observed actions in time order without interpretation."
+  },
+  {
+    "phrase": "calculating",
+    "variants": [
+      "is calculating",
+      "very calculating",
+      "cold and calculating"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Adultifies and criminalises a child's behaviour.",
+    "suggestion": "Describe what happened step by step; leave analysis to assessment."
+  },
+  {
+    "phrase": "horrible",
+    "variants": [
+      "was horrible",
+      "being horrible",
+      "horrible to staff",
+      "horrible child"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Emotive judgement that records nothing usable.",
+    "suggestion": "Describe the words/actions, who was present and what preceded them."
+  },
+  {
+    "phrase": "mean",
+    "variants": [
+      "being mean",
+      "was mean",
+      "so mean",
+      "mean to"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "medium",
+    "why": "Judgemental summary instead of description.",
+    "suggestion": "Record what was said/done and the other child's response."
+  },
+  {
+    "phrase": "vile",
+    "variants": [
+      "was vile",
+      "being vile",
+      "vile behaviour",
+      "vile language"
+    ],
+    "category": "CHARACTER JUDGEMENT",
+    "severity": "high",
+    "why": "Strongly emotive judgement revealing the writer's feelings, not the facts.",
+    "suggestion": "Quote the language used (or summarise factually) and describe the context."
+  },
+  {
+    "phrase": "aggressive",
+    "variants": [
+      "was aggressive",
+      "being aggressive",
+      "aggression",
+      "aggressively",
+      "became aggressive"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Turns behaviour into identity and is too vague to evidence risk or need.",
+    "suggestion": "Describe the specific actions (shouted, kicked door, raised fist), target, duration and trigger."
+  },
+  {
+    "phrase": "defiant",
+    "variants": [
+      "was defiant",
+      "being defiant",
+      "defiance",
+      "defiantly"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Labels the child oppositional instead of recording the interaction.",
+    "suggestion": "Record the instruction given, the child's response and any reasons offered."
+  },
+  {
+    "phrase": "a nightmare",
+    "variants": [
+      "was a nightmare",
+      "being a nightmare",
+      "absolute nightmare",
+      "total nightmare"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Defines the child by the adult's experience of them.",
+    "suggestion": "List the actual events of the shift/visit with times and context."
+  },
+  {
+    "phrase": "violent",
+    "variants": [
+      "was violent",
+      "being violent",
+      "violence",
+      "violently",
+      "turned violent"
+    ],
+    "category": "LABELLING",
+    "severity": "medium",
+    "why": "As a bare label it gives no detail needed for risk assessment.",
+    "suggestion": "Describe exactly what physical actions occurred, to whom, with what outcome and trigger."
+  },
+  {
+    "phrase": "disruptive",
+    "variants": [
+      "was disruptive",
+      "being disruptive",
+      "disruption",
+      "disruptive behaviour"
+    ],
+    "category": "LABELLING",
+    "severity": "medium",
+    "why": "Vague school-style label that records no observable event.",
+    "suggestion": "State what the child did, in what setting, and the effect observed."
+  },
+  {
+    "phrase": "challenging",
+    "variants": [
+      "is challenging",
+      "challenging behaviour",
+      "very challenging",
+      "so challenging"
+    ],
+    "category": "LABELLING",
+    "severity": "medium",
+    "why": "Locates the challenge in the child rather than the situation; describes nothing.",
+    "suggestion": "Describe the specific behaviour and what was happening around the child."
+  },
+  {
+    "phrase": "a handful",
+    "variants": [
+      "a right handful",
+      "bit of a handful",
+      "such a handful",
+      "real handful"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Informal whole-child label defined by adult burden.",
+    "suggestion": "Record the specific behaviours and supports needed instead."
+  },
+  {
+    "phrase": "troublemaker",
+    "variants": [
+      "trouble maker",
+      "is trouble",
+      "causes trouble",
+      "known troublemaker"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Identity label that follows a child through their file and biases readers.",
+    "suggestion": "Record each incident factually and separately."
+  },
+  {
+    "phrase": "problem child",
+    "variants": [
+      "a problem",
+      "the problem child",
+      "problem kid"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Defines the child as the problem.",
+    "suggestion": "Describe the behaviours, needs and contexts; the child is not the problem."
+  },
+  {
+    "phrase": "drama queen",
+    "variants": [
+      "being a drama queen",
+      "such a drama queen",
+      "drama king"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Mocking, gendered identity label that dismisses distress.",
+    "suggestion": "Describe the behaviour and intensity neutrally with the trigger."
+  },
+  {
+    "phrase": "attention seeker",
+    "variants": [
+      "an attention seeker",
+      "attention-seeker",
+      "classic attention seeker"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Identity label that dismisses need; attention-seeking is often attachment-need.",
+    "suggestion": "Describe the behaviour and consider recording it as seeking connection/support."
+  },
+  {
+    "phrase": "bully",
+    "variants": [
+      "is a bully",
+      "being a bully",
+      "the bully"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Identity label; record bullying behaviour, not a bully identity.",
+    "suggestion": "Describe the specific incident, those involved and actions taken."
+  },
+  {
+    "phrase": "hyperactive",
+    "variants": [
+      "is hyperactive",
+      "so hyperactive",
+      "hyperactivity"
+    ],
+    "category": "LABELLING",
+    "severity": "medium",
+    "why": "Quasi-diagnostic label used informally without assessment.",
+    "suggestion": "Describe activity level, duration and context; leave diagnosis to clinicians."
+  },
+  {
+    "phrase": "little madam",
+    "variants": [
+      "a little madam",
+      "right little madam",
+      "proper madam"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Demeaning, gendered identity label.",
+    "suggestion": "Describe the words/behaviour and context without characterising the child."
+  },
+  {
+    "phrase": "little terror",
+    "variants": [
+      "a little terror",
+      "holy terror",
+      "right terror"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Identity label defining the child as frightening or bad.",
+    "suggestion": "Record specific behaviours with times and triggers."
+  },
+  {
+    "phrase": "volatile",
+    "variants": [
+      "is volatile",
+      "very volatile",
+      "volatility"
+    ],
+    "category": "LABELLING",
+    "severity": "medium",
+    "why": "Labels the child unstable without describing what changes and when.",
+    "suggestion": "Describe the observed changes in presentation, how quickly, and around what events."
+  },
+  {
+    "phrase": "feral",
+    "variants": [
+      "like a feral child",
+      "gone feral",
+      "feral behaviour"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Dehumanising language that should never appear in a child's record.",
+    "suggestion": "Describe the behaviour factually and respectfully."
+  },
+  {
+    "phrase": "wild",
+    "variants": [
+      "was wild",
+      "gone wild",
+      "running wild",
+      "wild behaviour"
+    ],
+    "category": "LABELLING",
+    "severity": "medium",
+    "why": "Vague animalising label.",
+    "suggestion": "Describe what the child actually did, where, and for how long."
+  },
+  {
+    "phrase": "uncontrollable",
+    "variants": [
+      "was uncontrollable",
+      "totally uncontrollable",
+      "can't be controlled"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Frames the child as beyond help and the adult as blameless.",
+    "suggestion": "Describe the behaviour, the strategies tried and the outcome of each."
+  },
+  {
+    "phrase": "damaged",
+    "variants": [
+      "is damaged",
+      "very damaged",
+      "damaged child",
+      "so damaged"
+    ],
+    "category": "LABELLING",
+    "severity": "high",
+    "why": "Defines a child by harm done to them; stigmatising and hopeless.",
+    "suggestion": "Describe experiences and current needs/behaviours specifically and respectfully."
+  },
+  {
+    "phrase": "troubled",
+    "variants": [
+      "a troubled child",
+      "troubled young person",
+      "very troubled"
+    ],
+    "category": "LABELLING",
+    "severity": "medium",
+    "why": "Vague identity label that records nothing actionable.",
+    "suggestion": "Name the specific worries, behaviours or events being referred to."
+  },
+  {
+    "phrase": "abusive",
+    "variants": [
+      "was abusive",
+      "being abusive",
+      "verbally abusive"
+    ],
+    "category": "LABELLING",
+    "severity": "medium",
+    "why": "As a bare label of a child it is vague and stigmatising.",
+    "suggestion": "Quote or summarise the actual words/actions, target and context."
+  },
+  {
+    "phrase": "on purpose",
+    "variants": [
+      "did it on purpose",
+      "done on purpose",
+      "purposely"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Claims to know the child's intent, which cannot be observed.",
+    "suggestion": "Describe the action and sequence; record intent only if the child stated it (in quotes)."
+  },
+  {
+    "phrase": "deliberately",
+    "variants": [
+      "deliberate",
+      "did it deliberately",
+      "quite deliberate"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Asserts intent as fact.",
+    "suggestion": "Record what was observed; note 'X said he meant to...' only if said."
+  },
+  {
+    "phrase": "intentionally",
+    "variants": [
+      "intentional",
+      "with intent",
+      "fully intentional"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Intent is interpretation, not observation.",
+    "suggestion": "Describe the action and context without inferring purpose."
+  },
+  {
+    "phrase": "to get attention",
+    "variants": [
+      "for attention",
+      "attention seeking",
+      "attention-seeking",
+      "just wants attention",
+      "doing it for attention"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Imputes motive and dismisses possible unmet need.",
+    "suggestion": "Describe the behaviour and adult responses; consider what need it may communicate."
+  },
+  {
+    "phrase": "knew what he was doing",
+    "variants": [
+      "knew what she was doing",
+      "knew exactly what he was doing",
+      "knows what he's doing",
+      "knew full well"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Claims access to the child's mind and awareness.",
+    "suggestion": "Record observable actions; let assessment consider understanding."
+  },
+  {
+    "phrase": "winding me up",
+    "variants": [
+      "winding us up",
+      "trying to wind me up",
+      "wound me up",
+      "winds people up"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Imputes motive and centres the adult's feelings.",
+    "suggestion": "Describe the behaviour and your professional response, not the imputed aim."
+  },
+  {
+    "phrase": "trying it on",
+    "variants": [
+      "tried it on",
+      "always trying it on"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Imputes manipulative intent in slang form.",
+    "suggestion": "Record what the child requested or did and the response given."
+  },
+  {
+    "phrase": "pushing buttons",
+    "variants": [
+      "pushing my buttons",
+      "knows which buttons to push",
+      "pressing buttons"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Attributes deliberate provocation.",
+    "suggestion": "Describe the interaction in sequence without inferring intent."
+  },
+  {
+    "phrase": "testing boundaries",
+    "variants": [
+      "testing the boundaries",
+      "boundary testing",
+      "pushing boundaries"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "medium",
+    "why": "Interprets motive; often used as a catch-all instead of description.",
+    "suggestion": "Describe the specific behaviour and the boundary/rule involved."
+  },
+  {
+    "phrase": "playing one off against the other",
+    "variants": [
+      "playing staff off",
+      "played us off against each other",
+      "splitting staff"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Imputes strategy and manipulation.",
+    "suggestion": "Record what was said to each adult and when; let the pattern be evidenced."
+  },
+  {
+    "phrase": "trying to get a reaction",
+    "variants": [
+      "wanted a reaction",
+      "looking for a reaction",
+      "to get a rise"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Asserts motive that cannot be observed.",
+    "suggestion": "Describe the behaviour, audience and responses without inferring purpose."
+  },
+  {
+    "phrase": "did it to annoy",
+    "variants": [
+      "just to annoy",
+      "doing it to annoy me",
+      "to wind people up"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Imputes hostile motive.",
+    "suggestion": "Record what happened and any words the child used."
+  },
+  {
+    "phrase": "wants his own way",
+    "variants": [
+      "wants her own way",
+      "just wants his own way",
+      "has to have his own way"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Reduces the child's wishes to wilfulness.",
+    "suggestion": "Record what the child asked for and how the disagreement unfolded."
+  },
+  {
+    "phrase": "milking it",
+    "variants": [
+      "milked it",
+      "really milking it"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Dismisses expressed distress or injury as exaggerated for gain.",
+    "suggestion": "Record the reported pain/distress and observations neutrally."
+  },
+  {
+    "phrase": "putting it on",
+    "variants": [
+      "puts it on",
+      "was putting it on",
+      "put it on for the social worker"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Accuses the child of faking distress; dangerous in safeguarding records.",
+    "suggestion": "Record what the child reported and what was observed, without judging authenticity."
+  },
+  {
+    "phrase": "faking it",
+    "variants": [
+      "faking",
+      "faked it",
+      "fake tears",
+      "pretending to be hurt"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Dismisses possible genuine distress or injury.",
+    "suggestion": "Record the child's report and observable signs; seek medical advice if relevant."
+  },
+  {
+    "phrase": "crocodile tears",
+    "variants": [
+      "turning on the tears",
+      "tears on demand"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Mocks and dismisses a child's crying as performance.",
+    "suggestion": "Record that the child cried, when, and the context."
+  },
+  {
+    "phrase": "looking for trouble",
+    "variants": [
+      "out for trouble",
+      "looking to cause trouble",
+      "spoiling for a fight"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Imputes intent to offend before anything has happened.",
+    "suggestion": "Describe the observed behaviour and setting."
+  },
+  {
+    "phrase": "trying his luck",
+    "variants": [
+      "trying her luck",
+      "chancing it",
+      "chancing his arm"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "medium",
+    "why": "Imputes opportunistic motive in slang.",
+    "suggestion": "Record the request or action and the response factually."
+  },
+  {
+    "phrase": "made it up",
+    "variants": [
+      "making it up",
+      "made the whole thing up",
+      "making up stories"
+    ],
+    "category": "ATTRIBUTING MOTIVE",
+    "severity": "high",
+    "why": "Dismisses a child's account; in safeguarding this can suppress disclosures.",
+    "suggestion": "Record exactly what the child said in their words, and separately any conflicting information."
+  },
+  {
+    "phrase": "no point trying",
+    "variants": [
+      "no point even trying",
+      "pointless trying",
+      "waste of time trying"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Declares intervention futile and forecloses the child's future.",
+    "suggestion": "Record what was tried, the outcome, and what might be tried next."
+  },
+  {
+    "phrase": "he'll never change",
+    "variants": [
+      "she'll never change",
+      "will never change",
+      "never going to change"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Writes the child off with a prediction stated as fact.",
+    "suggestion": "Record current behaviour and any changes over time, positive or negative."
+  },
+  {
+    "phrase": "will never learn",
+    "variants": [
+      "never learns",
+      "he never learns",
+      "won't ever learn"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Fixed prediction that biases future readers against the child.",
+    "suggestion": "Record the repeated behaviour factually with dates so patterns are evidenced, not asserted."
+  },
+  {
+    "phrase": "a lost cause",
+    "variants": [
+      "lost cause",
+      "beyond help",
+      "beyond saving",
+      "past helping"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Abandons professional hope and purpose; harmful in any record.",
+    "suggestion": "Record needs, strategies tried and outcomes; escalate if current support isn't working."
+  },
+  {
+    "phrase": "leopard doesn't change its spots",
+    "variants": [
+      "leopards don't change their spots",
+      "a leopard never changes its spots"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Cliché asserting permanent character.",
+    "suggestion": "Stick to dated, factual records of behaviour over time."
+  },
+  {
+    "phrase": "it's in his nature",
+    "variants": [
+      "in her nature",
+      "just his nature",
+      "that's his nature"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Attributes behaviour to immutable nature.",
+    "suggestion": "Describe behaviour and context; avoid claims about nature."
+  },
+  {
+    "phrase": "born like that",
+    "variants": [
+      "born that way",
+      "been like it since birth"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Asserts innate, unchangeable cause.",
+    "suggestion": "Record observed behaviour and relevant history factually."
+  },
+  {
+    "phrase": "runs in the family",
+    "variants": [
+      "in the genes",
+      "gets it from his dad",
+      "gets it from her mum",
+      "just like his dad",
+      "just like her mum"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Stigmatises the child and family with hereditary judgement.",
+    "suggestion": "Record the child's own behaviour; family history belongs in assessment, stated factually."
+  },
+  {
+    "phrase": "nothing works with him",
+    "variants": [
+      "nothing works with her",
+      "nothing works",
+      "tried everything, nothing works"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Closes down problem-solving with an absolute claim.",
+    "suggestion": "List the strategies tried, when, and the specific outcomes of each."
+  },
+  {
+    "phrase": "given up on",
+    "variants": [
+      "i've given up",
+      "we've given up on him",
+      "given up trying"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Records professional abandonment of a child.",
+    "suggestion": "Record the difficulty and escalate for support/supervision rather than recording resignation."
+  },
+  {
+    "phrase": "a write-off",
+    "variants": [
+      "write off",
+      "the day was a write-off",
+      "he's a write-off"
+    ],
+    "category": "FIXED MINDSET",
+    "severity": "high",
+    "why": "Dismisses a child or a whole day as worthless.",
+    "suggestion": "Record what actually happened, including anything that went well."
+  },
+  {
+    "phrase": "that's just him",
+    "variants": [
+      "that's just her",
+      "it's just him",
+      "that's just how he is",
+      "that's just the way she is",
+      "that's him all over"
+    ],
+    "category": "GENERALISATION",
+    "severity": "high",
+    "why": "Whole-child summary that normalises and stops curiosity about causes.",
+    "suggestion": "Describe the specific behaviour and look for triggers/patterns instead of accepting it as fixed."
+  },
+  {
+    "phrase": "same as usual",
+    "variants": [
+      "usual self",
+      "his usual self",
+      "her usual self",
+      "the usual"
+    ],
+    "category": "GENERALISATION",
+    "severity": "medium",
+    "why": "Records nothing and assumes the reader knows the 'usual'.",
+    "suggestion": "Briefly describe what actually happened, even if it matches previous days."
+  },
+  {
+    "phrase": "typical of him",
+    "variants": [
+      "typical of her",
+      "typical him",
+      "how typical",
+      "typical behaviour for him"
+    ],
+    "category": "GENERALISATION",
+    "severity": "high",
+    "why": "Asserts a pattern as character rather than evidencing it.",
+    "suggestion": "Record the event factually; patterns should emerge from dated records."
+  },
+  {
+    "phrase": "as always",
+    "variants": [
+      "like always",
+      "same as always"
+    ],
+    "category": "GENERALISATION",
+    "severity": "medium",
+    "why": "Sweeping claim of constancy without evidence.",
+    "suggestion": "Describe today's events; reference specific previous dates if relevant."
+  },
+  {
+    "phrase": "true to form",
+    "variants": [
+      "running true to form",
+      "true to type"
+    ],
+    "category": "GENERALISATION",
+    "severity": "high",
+    "why": "Frames behaviour as confirmation of a fixed character.",
+    "suggestion": "Record the event on its own terms with context."
+  },
+  {
+    "phrase": "being himself",
+    "variants": [
+      "being herself",
+      "just being himself",
+      "just being [name]"
+    ],
+    "category": "GENERALISATION",
+    "severity": "medium",
+    "why": "Whole-child summary that explains nothing.",
+    "suggestion": "Describe the actual behaviour observed."
+  },
+  {
+    "phrase": "what do you expect",
+    "variants": [
+      "what did you expect",
+      "what can you expect"
+    ],
+    "category": "GENERALISATION",
+    "severity": "high",
+    "why": "Cynical commentary implying the child's behaviour is inevitable.",
+    "suggestion": "Remove commentary; record events and context only."
+  },
+  {
+    "phrase": "same old",
+    "variants": [
+      "same old story",
+      "same old same old",
+      "same old thing"
+    ],
+    "category": "GENERALISATION",
+    "severity": "medium",
+    "why": "Dismissive shorthand that records nothing.",
+    "suggestion": "State what happened today, with times and triggers."
+  },
+  {
+    "phrase": "nothing new",
+    "variants": [
+      "nothing new there",
+      "nothing new to report"
+    ],
+    "category": "GENERALISATION",
+    "severity": "medium",
+    "why": "Dismisses events as repetitive instead of recording them.",
+    "suggestion": "Record the day's events briefly; repetition is itself useful evidence when dated."
+  },
+  {
+    "phrase": "as per usual",
+    "variants": [
+      "per usual",
+      "as per"
+    ],
+    "category": "GENERALISATION",
+    "severity": "medium",
+    "why": "Assumes a known pattern instead of evidencing it.",
+    "suggestion": "Describe what occurred and cross-reference earlier dated entries if needed."
+  },
+  {
+    "phrase": "as ever",
+    "variants": [
+      "ever the same",
+      "unchanged as ever"
+    ],
+    "category": "GENERALISATION",
+    "severity": "medium",
+    "why": "Sweeping constancy claim.",
+    "suggestion": "Describe today's observations specifically."
+  },
+  {
+    "phrase": "predictably",
+    "variants": [
+      "predictable",
+      "entirely predictable",
+      "as predicted"
+    ],
+    "category": "GENERALISATION",
+    "severity": "medium",
+    "why": "Frames the child as a foregone conclusion.",
+    "suggestion": "Record the event without editorial framing."
+  },
+  {
+    "phrase": "kicked off",
+    "variants": [
+      "kicking off",
+      "kicks off",
+      "kick off",
+      "kicked right off"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Slang that hides what actually happened and its seriousness.",
+    "suggestion": "Describe the specific behaviours (shouting, throwing, hitting), trigger, duration and how it was resolved."
+  },
+  {
+    "phrase": "playing up",
+    "variants": [
+      "played up",
+      "plays up",
+      "playing me up"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Dismissive slang that judges instead of describing.",
+    "suggestion": "State the specific behaviours, when and where they occurred."
+  },
+  {
+    "phrase": "acting up",
+    "variants": [
+      "acted up",
+      "acts up"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Vague slang carrying judgement.",
+    "suggestion": "Record the observable behaviour and the situation around it."
+  },
+  {
+    "phrase": "acting out",
+    "variants": [
+      "acted out",
+      "acts out",
+      "acting-out behaviour"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Jargon-slang that interprets behaviour as performance of distress without describing it.",
+    "suggestion": "Describe the behaviour itself and its context."
+  },
+  {
+    "phrase": "showing off",
+    "variants": [
+      "showed off",
+      "shows off",
+      "showing himself up"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Judges behaviour as performance for an audience.",
+    "suggestion": "Describe what the child did and who was present."
+  },
+  {
+    "phrase": "throwing a wobbly",
+    "variants": [
+      "threw a wobbly",
+      "wobbler",
+      "throwing a wobbler"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Mocking slang for distress.",
+    "suggestion": "Describe the distress shown, the trigger and how the child was supported."
+  },
+  {
+    "phrase": "tantrum",
+    "variants": [
+      "threw a tantrum",
+      "throwing a tantrum",
+      "tantrums",
+      "full-blown tantrum"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Dismissive label that hides intensity, duration and trigger.",
+    "suggestion": "Describe what the child did, for how long, what preceded it and what helped."
+  },
+  {
+    "phrase": "strop",
+    "variants": [
+      "had a strop",
+      "having a strop",
+      "in a strop",
+      "stropped off",
+      "stroppy"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Belittling slang for distress or anger.",
+    "suggestion": "Record the observable behaviour and context neutrally."
+  },
+  {
+    "phrase": "paddy",
+    "variants": [
+      "threw a paddy",
+      "having a paddy",
+      "in a paddy"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Dismissive (and ethnically loaded) slang for a child's distress.",
+    "suggestion": "Describe the behaviour, trigger and support given."
+  },
+  {
+    "phrase": "meltdown",
+    "variants": [
+      "had a meltdown",
+      "having a meltdown",
+      "total meltdown",
+      "melted down"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Catch-all label that obscures what happened; particularly unhelpful for autistic children where detail matters.",
+    "suggestion": "Describe the behaviours, sensory/situational triggers, duration and recovery."
+  },
+  {
+    "phrase": "kicking up a fuss",
+    "variants": [
+      "kicked up a fuss",
+      "making a fuss",
+      "made a fuss",
+      "fussing"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Dismisses the child's response as excessive.",
+    "suggestion": "Record what the child said/did and what they were responding to."
+  },
+  {
+    "phrase": "doing my head in",
+    "variants": [
+      "did my head in",
+      "doing our heads in"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Records the adult's irritation, not the child's behaviour.",
+    "suggestion": "Remove personal commentary; describe behaviour and professional responses."
+  },
+  {
+    "phrase": "driving me mad",
+    "variants": [
+      "drove me mad",
+      "driving us mad",
+      "driving me up the wall",
+      "drove me up the wall"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Centres adult frustration rather than the child's needs.",
+    "suggestion": "Describe the behaviour and supports; raise adult stress in supervision, not the record."
+  },
+  {
+    "phrase": "doing his nut",
+    "variants": [
+      "did his nut",
+      "doing her nut",
+      "done his nut"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Slang that trivialises distress or anger.",
+    "suggestion": "Describe what was observed and the trigger."
+  },
+  {
+    "phrase": "lost the plot",
+    "variants": [
+      "losing the plot",
+      "lost it",
+      "losing it",
+      "totally lost it"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Slang implying irrationality without describing events.",
+    "suggestion": "Describe the escalation step by step with the trigger."
+  },
+  {
+    "phrase": "went off on one",
+    "variants": [
+      "going off on one",
+      "off on one again"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Slang that dismisses and records nothing usable.",
+    "suggestion": "Record the specific behaviour, audience, duration and resolution."
+  },
+  {
+    "phrase": "went mental",
+    "variants": [
+      "going mental",
+      "gone mental",
+      "went mad",
+      "went crazy",
+      "went psycho"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Stigmatising mental-health slang applied to a child's behaviour.",
+    "suggestion": "Describe the behaviour factually; never use mental-health terms as insults."
+  },
+  {
+    "phrase": "went ballistic",
+    "variants": [
+      "going ballistic",
+      "gone ballistic"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Hyperbolic slang that hides the actual events.",
+    "suggestion": "Describe the behaviours, intensity and duration specifically."
+  },
+  {
+    "phrase": "flipped out",
+    "variants": [
+      "flipped",
+      "flipping out",
+      "flipped his lid",
+      "flew off the handle"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Slang substituting for description of escalation.",
+    "suggestion": "Record the sequence: trigger, behaviour, response, outcome."
+  },
+  {
+    "phrase": "screaming blue murder",
+    "variants": [
+      "screamed blue murder",
+      "yelling blue murder"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Hyperbolic idiom rather than description.",
+    "suggestion": "Record that the child screamed/shouted, for how long, and the context."
+  },
+  {
+    "phrase": "carrying on",
+    "variants": [
+      "carried on",
+      "what a carry on",
+      "carrying-on"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Vague dismissive idiom.",
+    "suggestion": "State the actual behaviour observed."
+  },
+  {
+    "phrase": "messing about",
+    "variants": [
+      "messed about",
+      "messing around",
+      "mucking about",
+      "mucking around",
+      "larking about"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Vague slang that judges activity as worthless.",
+    "suggestion": "Describe what the child was doing and the setting."
+  },
+  {
+    "phrase": "being silly",
+    "variants": [
+      "was silly",
+      "silly behaviour",
+      "acting silly",
+      "being daft",
+      "daft behaviour"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Judgemental label for unspecified behaviour.",
+    "suggestion": "Describe the actions; 'silly' tells a future reader nothing."
+  },
+  {
+    "phrase": "faffing",
+    "variants": [
+      "faffing about",
+      "faffed around",
+      "stop faffing"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "low",
+    "why": "Dismissive slang for slowness or indecision.",
+    "suggestion": "Describe what the child was doing and how long the task took."
+  },
+  {
+    "phrase": "dawdling",
+    "variants": [
+      "dawdled",
+      "dawdles"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "low",
+    "why": "Judges pace as a fault.",
+    "suggestion": "Record times factually (e.g. took 20 minutes to get ready)."
+  },
+  {
+    "phrase": "mardy",
+    "variants": [
+      "being mardy",
+      "in a mard",
+      "mardy bum"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Regional slang mocking low mood or sulkiness.",
+    "suggestion": "Describe the presentation and context neutrally."
+  },
+  {
+    "phrase": "narky",
+    "variants": [
+      "being narky",
+      "got narky",
+      "narked"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Slang judgement of irritability.",
+    "suggestion": "Describe tone, words and trigger instead."
+  },
+  {
+    "phrase": "whingeing",
+    "variants": [
+      "whinging",
+      "whinged",
+      "whingy",
+      "whinge"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Dismisses a child's complaints as noise.",
+    "suggestion": "Record what the child was complaining about and how it was addressed."
+  },
+  {
+    "phrase": "whining",
+    "variants": [
+      "whined",
+      "whiny",
+      "whine"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Dismissive judgement of the child's communication.",
+    "suggestion": "Record the content of what the child said and the response."
+  },
+  {
+    "phrase": "moaning",
+    "variants": [
+      "moaned",
+      "always moaning",
+      "moaning about"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Dismisses complaints rather than recording them.",
+    "suggestion": "Note what the child raised, in their words if possible, and any action taken."
+  },
+  {
+    "phrase": "grizzling",
+    "variants": [
+      "grizzled",
+      "grizzly"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Dismissive slang for crying or complaining.",
+    "suggestion": "Record that the child cried/complained, the apparent trigger and the support given."
+  },
+  {
+    "phrase": "mithering",
+    "variants": [
+      "mithered",
+      "stop mithering",
+      "mithering me"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Regional slang dismissing repeated requests as pestering.",
+    "suggestion": "Record what the child asked for, how often, and the responses."
+  },
+  {
+    "phrase": "good as gold",
+    "variants": [
+      "been good as gold",
+      "was good as gold"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Compliance-praise idiom that records nothing observable and equates 'good' with quiet.",
+    "suggestion": "Describe what the child actually did (activities, interactions, mood indicators)."
+  },
+  {
+    "phrase": "little angel",
+    "variants": [
+      "a little angel",
+      "an angel today",
+      "angelic"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Sentimental label with no observational content.",
+    "suggestion": "Record specific positive behaviours and interactions."
+  },
+  {
+    "phrase": "butter wouldn't melt",
+    "variants": [
+      "butter wouldn't melt in his mouth",
+      "butter-wouldn't-melt"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Implies the child is deceptively innocent; a disguised character judgement.",
+    "suggestion": "Record observed behaviour without insinuation."
+  },
+  {
+    "phrase": "being dramatic",
+    "variants": [
+      "so dramatic",
+      "over-dramatic",
+      "overdramatic",
+      "histrionics",
+      "all the drama"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "high",
+    "why": "Dismisses expressed distress as performance.",
+    "suggestion": "Describe the behaviour and intensity factually with the trigger."
+  },
+  {
+    "phrase": "having a moment",
+    "variants": [
+      "had a moment",
+      "having one of his moments",
+      "one of her moments"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "medium",
+    "why": "Euphemism that records nothing and implies a known pattern.",
+    "suggestion": "Describe what happened, the duration and the support given."
+  },
+  {
+    "phrase": "full of beans",
+    "variants": [
+      "full of energy and beans",
+      "full of it today"
+    ],
+    "category": "INFORMAL / DISMISSIVE",
+    "severity": "low",
+    "why": "Idiom rather than observation; vague for monitoring purposes.",
+    "suggestion": "Describe the activity level and what the child did."
+  },
+  {
+    "phrase": "over the top",
+    "variants": [
+      "went over the top",
+      "totally over the top",
+      "ott",
+      "o.t.t."
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Judges the child's response as disproportionate without describing it.",
+    "suggestion": "Describe the response and the trigger; let readers judge proportion from facts."
+  },
+  {
+    "phrase": "bouncing off the walls",
+    "variants": [
+      "bounced off the walls",
+      "climbing the walls"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Hyperbole instead of observation.",
+    "suggestion": "Describe the actual activity (running, jumping on furniture), duration and setting."
+  },
+  {
+    "phrase": "out of control",
+    "variants": [
+      "completely out of control",
+      "totally out of control",
+      "spiralling out of control"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "high",
+    "why": "Sweeping claim that hides events and implies hopelessness.",
+    "suggestion": "List the specific behaviours, the strategies used and their effect."
+  },
+  {
+    "phrase": "off the scale",
+    "variants": [
+      "off the charts",
+      "off the richter scale"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Hyperbole with no measurable content.",
+    "suggestion": "Describe intensity concretely (volume, duration, actions)."
+  },
+  {
+    "phrase": "through the roof",
+    "variants": [
+      "went through the roof",
+      "behaviour through the roof",
+      "sky high"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Figurative intensity claim with no detail.",
+    "suggestion": "State what increased, by how much, compared with when."
+  },
+  {
+    "phrase": "absolute chaos",
+    "variants": [
+      "total chaos",
+      "utter chaos",
+      "chaos all evening",
+      "chaotic"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Summarises with drama instead of facts.",
+    "suggestion": "List the events in order with times."
+  },
+  {
+    "phrase": "carnage",
+    "variants": [
+      "absolute carnage",
+      "total carnage"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "high",
+    "why": "Violent hyperbole inappropriate in a child's record.",
+    "suggestion": "Describe what actually happened and any damage or injury factually."
+  },
+  {
+    "phrase": "mayhem",
+    "variants": [
+      "total mayhem",
+      "caused mayhem"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Dramatic summary that records nothing specific.",
+    "suggestion": "Record the actual events, participants and outcomes."
+  },
+  {
+    "phrase": "world war three",
+    "variants": [
+      "world war 3",
+      "ww3 broke out",
+      "all-out war"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "high",
+    "why": "Flippant hyperbole that trivialises conflict in the record.",
+    "suggestion": "Describe the disagreement, who was involved and how it was resolved."
+  },
+  {
+    "phrase": "all hell broke loose",
+    "variants": [
+      "hell broke loose",
+      "all hell let loose"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "high",
+    "why": "Dramatic idiom in place of a factual account.",
+    "suggestion": "Record the sequence of events with times."
+  },
+  {
+    "phrase": "trashed the room",
+    "variants": [
+      "trashed his room",
+      "trashed the place",
+      "wrecked the room",
+      "smashed the place up"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Vague and dramatic; the detail matters for risk and repair.",
+    "suggestion": "List what was damaged or displaced, the trigger and how the child was supported after."
+  },
+  {
+    "phrase": "destroyed the place",
+    "variants": [
+      "destroyed everything",
+      "destroyed his bedroom"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Hyperbole that obscures the actual scale of damage.",
+    "suggestion": "Itemise damage factually with photographs/repair notes where relevant."
+  },
+  {
+    "phrase": "screamed the place down",
+    "variants": [
+      "screaming the place down",
+      "screamed the house down"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Hyperbole instead of observation.",
+    "suggestion": "Record that the child screamed, for roughly how long, and the context."
+  },
+  {
+    "phrase": "non-stop",
+    "variants": [
+      "nonstop",
+      "non stop",
+      "didn't stop all day"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Unlikely-literal intensity claim.",
+    "suggestion": "Estimate frequency or duration honestly (e.g. repeatedly between 4pm and 6pm)."
+  },
+  {
+    "phrase": "relentless",
+    "variants": [
+      "was relentless",
+      "relentlessly"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Conveys the adult's exhaustion rather than the child's behaviour.",
+    "suggestion": "Record frequency and duration factually."
+  },
+  {
+    "phrase": "24/7",
+    "variants": [
+      "24-7",
+      "round the clock",
+      "all day every day"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Hyperbolic frequency claim.",
+    "suggestion": "State when and how often the behaviour was actually observed."
+  },
+  {
+    "phrase": "extreme behaviour",
+    "variants": [
+      "extreme",
+      "behaviour was extreme",
+      "extremely badly behaved"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Intensity judgement with no description.",
+    "suggestion": "Describe the behaviour itself so its seriousness is evidenced."
+  },
+  {
+    "phrase": "a riot",
+    "variants": [
+      "caused a riot",
+      "like a riot in there"
+    ],
+    "category": "EXAGGERATION / INTENSITY",
+    "severity": "medium",
+    "why": "Hyperbole that criminalises group behaviour.",
+    "suggestion": "Describe what each child did and how staff responded."
+  },
+  {
+    "phrase": "refused",
+    "variants": [
+      "refuses",
+      "refusing",
+      "refusal",
+      "flatly refused",
+      "point blank refused"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Frames the child's choice as defiance and omits how the request was made.",
+    "suggestion": "Record what was asked, how, and the child's response/words (e.g. 'X said no when asked to...')."
+  },
+  {
+    "phrase": "wouldn't cooperate",
+    "variants": [
+      "would not cooperate",
+      "uncooperative",
+      "refused to cooperate",
+      "not cooperating"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Frames the interaction around adult control rather than the child's perspective.",
+    "suggestion": "Describe what was asked, the child's response, and any reasons or worries they expressed."
+  },
+  {
+    "phrase": "non-compliant",
+    "variants": [
+      "non compliant",
+      "noncompliant",
+      "non-compliance",
+      "not compliant"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "high",
+    "why": "Clinical compliance jargon that treats a child's autonomy as a fault.",
+    "suggestion": "State what was requested and what the child chose to do, with their stated reasons."
+  },
+  {
+    "phrase": "failed to engage",
+    "variants": [
+      "failure to engage",
+      "did not engage",
+      "refusing to engage",
+      "won't engage"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "high",
+    "why": "Blames the child/family for a service relationship problem.",
+    "suggestion": "Record what was offered, when, how, and the response; consider barriers to engagement."
+  },
+  {
+    "phrase": "failed to comply",
+    "variants": [
+      "failure to comply",
+      "did not comply",
+      "won't comply"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "high",
+    "why": "Frames the child as an enforcement problem.",
+    "suggestion": "State the expectation, what happened, and the child's perspective if known."
+  },
+  {
+    "phrase": "disobedient",
+    "variants": [
+      "disobedience",
+      "disobeyed",
+      "disobeying"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "high",
+    "why": "Obedience framing judges the child rather than recording the interaction.",
+    "suggestion": "Record the instruction, the response, and the context."
+  },
+  {
+    "phrase": "wouldn't listen",
+    "variants": [
+      "doesn't listen",
+      "never listens",
+      "won't listen",
+      "refused to listen"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Conflates not complying with not hearing; vague and judgemental.",
+    "suggestion": "Record what was said to the child and what the child did or said in response."
+  },
+  {
+    "phrase": "wouldn't do as he was told",
+    "variants": [
+      "wouldn't do as she was told",
+      "won't do as he's told",
+      "do as they're told"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Obedience framing that omits the request and context.",
+    "suggestion": "State the request, the child's response and any negotiation."
+  },
+  {
+    "phrase": "obstructive",
+    "variants": [
+      "being obstructive",
+      "obstructed",
+      "obstructiveness"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Labels the child as a barrier rather than describing actions.",
+    "suggestion": "Describe specifically what the child did and the effect."
+  },
+  {
+    "phrase": "resisted",
+    "variants": [
+      "resisting",
+      "resistance",
+      "resistant"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Vague control-framed term; in physical contexts the detail is safeguarding-critical.",
+    "suggestion": "Describe exactly what happened, including any physical contact, who did what and why."
+  },
+  {
+    "phrase": "unwilling",
+    "variants": [
+      "was unwilling",
+      "unwilling to",
+      "totally unwilling"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "low",
+    "why": "Asserts internal stance rather than recording the response.",
+    "suggestion": "Record what was offered and what the child said or did."
+  },
+  {
+    "phrase": "obedient",
+    "variants": [
+      "was obedient",
+      "very obedient",
+      "obediently"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Praises compliance as the goal; can mask fear or masking in looked-after children.",
+    "suggestion": "Describe what the child did and their apparent comfort, not their obedience."
+  },
+  {
+    "phrase": "compliant",
+    "variants": [
+      "was compliant",
+      "fully compliant",
+      "very compliant"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Compliance language obscures whether the child was genuinely okay or shut down.",
+    "suggestion": "Describe behaviour and presentation; note quietness or withdrawal as observations."
+  },
+  {
+    "phrase": "did as she was told",
+    "variants": [
+      "did as he was told",
+      "did what he was told",
+      "does what she's told"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "low",
+    "why": "Frames the record around obedience.",
+    "suggestion": "Describe the activity and the child's participation instead."
+  },
+  {
+    "phrase": "played ball",
+    "variants": [
+      "wouldn't play ball",
+      "refused to play ball"
+    ],
+    "category": "COMPLIANCE FRAMING",
+    "severity": "medium",
+    "why": "Slang compliance framing.",
+    "suggestion": "State what was asked and what the child did."
+  },
+  {
+    "phrase": "always",
+    "variants": [
+      "he always",
+      "she always",
+      "they always",
+      "always does this"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "high",
+    "why": "Absolute claims are rarely accurate and bias future readers.",
+    "suggestion": "Use dated examples and honest frequency (e.g. on three occasions this week)."
+  },
+  {
+    "phrase": "never",
+    "variants": [
+      "he never",
+      "she never",
+      "never does",
+      "has never once"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "high",
+    "why": "Absolute negative that forecloses exceptions and hope.",
+    "suggestion": "State observed frequency with dates rather than 'never'."
+  },
+  {
+    "phrase": "every time",
+    "variants": [
+      "every single time",
+      "each and every time"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "high",
+    "why": "Sweeping pattern claim without evidence.",
+    "suggestion": "Cite the actual occasions with dates."
+  },
+  {
+    "phrase": "all the time",
+    "variants": [
+      "constantly",
+      "constant",
+      "does it constantly"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "medium",
+    "why": "Exaggerated frequency presented as fact.",
+    "suggestion": "Record realistic frequency and timing."
+  },
+  {
+    "phrase": "every day",
+    "variants": [
+      "every single day",
+      "daily without fail"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "medium",
+    "why": "Often inaccurate absolute; patterns need evidence.",
+    "suggestion": "Log occurrences with dates so the pattern is verifiable."
+  },
+  {
+    "phrase": "nothing ever",
+    "variants": [
+      "nothing ever works",
+      "nothing ever changes"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "high",
+    "why": "Absolute hopeless claim.",
+    "suggestion": "List what has been tried and the specific outcomes."
+  },
+  {
+    "phrase": "no one can",
+    "variants": [
+      "nobody can",
+      "no one is able to",
+      "nobody could"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "high",
+    "why": "Absolute claim of impossibility.",
+    "suggestion": "Record who has tried what and the results."
+  },
+  {
+    "phrase": "everyone says",
+    "variants": [
+      "everybody says",
+      "everyone agrees",
+      "everybody knows"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "high",
+    "why": "Unattributed consensus presented as evidence.",
+    "suggestion": "Name who said what, when, and in what context."
+  },
+  {
+    "phrase": "without fail",
+    "variants": [
+      "invariably",
+      "unfailingly"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "medium",
+    "why": "Absolute regularity claim.",
+    "suggestion": "Give honest, dated frequency."
+  },
+  {
+    "phrase": "completely ignored",
+    "variants": [
+      "totally ignored",
+      "ignored everything",
+      "ignores everyone"
+    ],
+    "category": "ABSOLUTE LANGUAGE",
+    "severity": "medium",
+    "why": "Absolute plus interpretation; 'ignored' assumes the child heard and chose not to respond.",
+    "suggestion": "Record 'did not respond when asked/spoken to' with the specific instances."
+  },
+  {
+    "phrase": "totally fine",
+    "variants": [
+      "was totally fine",
+      "absolutely fine",
+      "perfectly fine",
+      "all fine"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "Blanket reassurance that records no evidence and can mask concerns.",
+    "suggestion": "Describe what the child did, said and how they presented."
+  },
+  {
+    "phrase": "fine",
+    "variants": [
+      "was fine",
+      "seemed fine",
+      "he's fine",
+      "she's fine",
+      "everything was fine"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "'Fine' is an opinion, not an observation; serious case reviews repeatedly criticise it.",
+    "suggestion": "Replace with specific observations: activities, interactions, mood indicators, anything notable."
+  },
+  {
+    "phrase": "nothing to worry about",
+    "variants": [
+      "nothing to be worried about",
+      "no cause for concern",
+      "nothing concerning"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "high",
+    "why": "Pre-judges significance and may close down later scrutiny.",
+    "suggestion": "Record the facts and let analysis sit separately; note why a worry was discounted, with evidence."
+  },
+  {
+    "phrase": "no concerns",
+    "variants": [
+      "no concerns noted",
+      "no concerns raised",
+      "nil concerns"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "A conclusion without the observations that support it.",
+    "suggestion": "Briefly record what was checked/observed that supports the conclusion."
+  },
+  {
+    "phrase": "no issues",
+    "variants": [
+      "no issues today",
+      "without issue",
+      "no problems",
+      "no probs"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "Summarises absence rather than recording presence of anything.",
+    "suggestion": "Note key observations of the visit/shift even when uneventful."
+  },
+  {
+    "phrase": "nothing to report",
+    "variants": [
+      "ntr",
+      "nothing of note",
+      "nothing notable",
+      "nothing happened"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "Empty entry that wastes a recording opportunity and can hide drift.",
+    "suggestion": "Record brief positives and routine observations (meals, school, contact, mood)."
+  },
+  {
+    "phrase": "good day",
+    "variants": [
+      "had a good day",
+      "a really good day",
+      "good day overall"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "low",
+    "why": "Opinion summary with no observable content.",
+    "suggestion": "Say what made it good: activities, achievements, interactions."
+  },
+  {
+    "phrase": "bad day",
+    "variants": [
+      "had a bad day",
+      "a really bad day",
+      "rough day",
+      "tough day"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "Judgement summary that hides the actual events.",
+    "suggestion": "Record what happened, when, with triggers and responses."
+  },
+  {
+    "phrase": "uneventful",
+    "variants": [
+      "an uneventful day",
+      "uneventful shift",
+      "uneventful visit"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "low",
+    "why": "Records nothing; routine detail still has monitoring value.",
+    "suggestion": "Add brief factual notes on routine, mood and interactions."
+  },
+  {
+    "phrase": "settled",
+    "variants": [
+      "was settled",
+      "seems settled",
+      "settled well",
+      "settled evening"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "low",
+    "why": "Care-home shorthand that means little without behavioural detail.",
+    "suggestion": "Describe what the child did and how they presented during the period."
+  },
+  {
+    "phrase": "behaved himself",
+    "variants": [
+      "behaved herself",
+      "well behaved",
+      "behaved well",
+      "was good"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "Equates quiet compliance with wellbeing and records no detail.",
+    "suggestion": "Describe participation, interactions and mood rather than a behaviour verdict."
+  },
+  {
+    "phrase": "all good",
+    "variants": [
+      "it's all good",
+      "everything good",
+      "all ok",
+      "all okay"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "Casual blanket reassurance with no evidence.",
+    "suggestion": "Add the observations that support the judgement."
+  },
+  {
+    "phrase": "as expected",
+    "variants": [
+      "went as expected",
+      "nothing unexpected"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "low",
+    "why": "Assumes the reader shares the writer's expectations.",
+    "suggestion": "State briefly what actually happened."
+  },
+  {
+    "phrase": "doing well",
+    "variants": [
+      "is doing well",
+      "doing really well",
+      "getting on well"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "low",
+    "why": "Positive but evidence-free summary.",
+    "suggestion": "Cite the specifics: attendance, achievements, relationships, self-care."
+  },
+  {
+    "phrase": "no change",
+    "variants": [
+      "no changes",
+      "unchanged",
+      "situation unchanged"
+    ],
+    "category": "VAGUE SUMMARY",
+    "severity": "medium",
+    "why": "Hides drift; 'no change' in a poor situation is itself significant and needs evidencing.",
+    "suggestion": "State what was observed this time and compare explicitly with dated previous entries."
+  },
+  {
+    "phrase": "you could tell",
+    "variants": [
+      "you could see",
+      "you could just tell",
+      "anyone could see",
+      "anyone could tell"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "high",
+    "why": "Presents the writer's inference as self-evident fact.",
+    "suggestion": "State the observable signs that led to the impression, and frame it as impression."
+  },
+  {
+    "phrase": "it was obvious",
+    "variants": [
+      "obviously",
+      "it's obvious",
+      "blatantly obvious",
+      "quite obviously"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "high",
+    "why": "Asserts interpretation as undeniable without evidence.",
+    "suggestion": "Replace with the evidence: what was seen/heard that supports the view."
+  },
+  {
+    "phrase": "clearly",
+    "variants": [
+      "was clearly",
+      "clearly upset about",
+      "it was clear that"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "medium",
+    "why": "Converts inference into certainty.",
+    "suggestion": "Use 'appeared' or 'seemed' tied to the observed signs."
+  },
+  {
+    "phrase": "evidently",
+    "variants": [
+      "self-evidently",
+      "plainly",
+      "plain to see"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "medium",
+    "why": "Claims the interpretation needs no evidence.",
+    "suggestion": "Provide the observation and qualify the inference."
+  },
+  {
+    "phrase": "no doubt",
+    "variants": [
+      "without doubt",
+      "without a doubt",
+      "undoubtedly",
+      "there's no doubt"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "high",
+    "why": "Eliminates appropriate professional uncertainty.",
+    "suggestion": "State the evidence and the level of confidence honestly."
+  },
+  {
+    "phrase": "definitely",
+    "variants": [
+      "was definitely",
+      "definitely doing it",
+      "most definitely"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "medium",
+    "why": "Certainty about interpretation rather than observation.",
+    "suggestion": "Reserve certainty for directly observed facts; qualify interpretations."
+  },
+  {
+    "phrase": "must have",
+    "variants": [
+      "must have been",
+      "must have done",
+      "he must have"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "high",
+    "why": "Speculation dressed as deduction.",
+    "suggestion": "Record what is known; flag unknowns as unknowns."
+  },
+  {
+    "phrase": "would have known",
+    "variants": [
+      "would have realised",
+      "will have known",
+      "must have known"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "high",
+    "why": "Asserts the child's knowledge or awareness without evidence.",
+    "suggestion": "Record what the child said and did; assessment can consider understanding."
+  },
+  {
+    "phrase": "reading between the lines",
+    "variants": [
+      "read between the lines"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "medium",
+    "why": "Signals speculation presented as insight.",
+    "suggestion": "State the facts and clearly label any hypothesis as professional opinion."
+  },
+  {
+    "phrase": "i could see he was",
+    "variants": [
+      "i could see she was",
+      "could see that he was",
+      "i could tell he was"
+    ],
+    "category": "ASSUMED CERTAINTY",
+    "severity": "medium",
+    "why": "Frames inference about internal state as direct perception.",
+    "suggestion": "Describe what was visible and use qualified language ('appeared', 'seemed')."
+  },
+  {
+    "phrase": "for no reason",
+    "variants": [
+      "for no apparent reason",
+      "no reason at all",
+      "with no reason"
+    ],
+    "category": "MISSING CONTEXT",
+    "severity": "high",
+    "why": "Behaviour always has a function; this records the adult's failure to identify the trigger as a fact about the child.",
+    "suggestion": "Describe what was happening in the 5–10 minutes before; if no trigger was identified, say 'no trigger was identified'."
+  },
+  {
+    "phrase": "out of nowhere",
+    "variants": [
+      "came out of nowhere",
+      "from nowhere",
+      "out of the blue"
+    ],
+    "category": "MISSING CONTEXT",
+    "severity": "high",
+    "why": "Erases antecedents that matter for understanding and planning.",
+    "suggestion": "Record the preceding events, setting and interactions, even if the link is unclear."
+  },
+  {
+    "phrase": "unprovoked",
+    "variants": [
+      "totally unprovoked",
+      "an unprovoked attack",
+      "without provocation"
+    ],
+    "category": "MISSING CONTEXT",
+    "severity": "high",
+    "why": "Asserts absence of trigger as fact and frames the child as randomly dangerous.",
+    "suggestion": "Describe the lead-up factually; note 'staff did not observe a trigger' if true."
+  },
+  {
+    "phrase": "without warning",
+    "variants": [
+      "with no warning",
+      "no warning at all"
+    ],
+    "category": "MISSING CONTEXT",
+    "severity": "medium",
+    "why": "May reflect missed early signs rather than their absence.",
+    "suggestion": "Describe the moments before; note any early signs in hindsight."
+  },
+  {
+    "phrase": "randomly",
+    "variants": [
+      "at random",
+      "just randomly",
+      "random outburst"
+    ],
+    "category": "MISSING CONTEXT",
+    "severity": "medium",
+    "why": "Dismisses behaviour as meaningless.",
+    "suggestion": "Record the context and timing; patterns may emerge across entries."
+  },
+  {
+    "phrase": "no trigger",
+    "variants": [
+      "there was no trigger",
+      "nothing triggered it"
+    ],
+    "category": "MISSING CONTEXT",
+    "severity": "medium",
+    "why": "Claims certainty that no trigger existed rather than that none was observed.",
+    "suggestion": "Write 'no trigger was identified/observed' and describe the surrounding context."
+  },
+  {
+    "phrase": "all of a sudden",
+    "variants": [
+      "suddenly turned",
+      "suddenly went"
+    ],
+    "category": "MISSING CONTEXT",
+    "severity": "low",
+    "why": "Often substitutes for describing the build-up.",
+    "suggestion": "Check whether earlier signs occurred and record the sequence."
+  },
+  {
+    "phrase": "needs to learn",
+    "variants": [
+      "needs to learn that",
+      "has to learn",
+      "must learn"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "medium",
+    "why": "An instruction/opinion, not a record; moralises about the child.",
+    "suggestion": "Record what happened; put goals in the plan, framed around support not correction."
+  },
+  {
+    "phrase": "should have",
+    "variants": [
+      "should've",
+      "shouldn't have",
+      "should not have"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "medium",
+    "why": "Retrospective judgement rather than a record of events.",
+    "suggestion": "Record what happened; reflective judgements belong in supervision or analysis sections."
+  },
+  {
+    "phrase": "should know better",
+    "variants": [
+      "ought to know better",
+      "old enough to know better"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "high",
+    "why": "Moral judgement that ignores development, trauma and context.",
+    "suggestion": "Record the behaviour and the child's age/understanding factually."
+  },
+  {
+    "phrase": "needs to be taught",
+    "variants": [
+      "needs teaching",
+      "needs to be shown"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "medium",
+    "why": "Prescription embedded in a record.",
+    "suggestion": "Note the observed need factually and raise the goal in planning."
+  },
+  {
+    "phrase": "needs consequences",
+    "variants": [
+      "needs to face consequences",
+      "needs punishing",
+      "needs discipline",
+      "needs firm discipline"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "high",
+    "why": "Punitive prescription that doesn't belong in observational recording.",
+    "suggestion": "Record events and responses; behaviour-support planning is a separate, considered process."
+  },
+  {
+    "phrase": "needs to grow up",
+    "variants": [
+      "needs to mature",
+      "time he grew up"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "high",
+    "why": "Dismissive moral instruction aimed at a child.",
+    "suggestion": "Describe the behaviour; remove commentary."
+  },
+  {
+    "phrase": "must try harder",
+    "variants": [
+      "needs to try harder",
+      "should try harder",
+      "isn't trying"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "medium",
+    "why": "Judges effort, which cannot be observed, and prescribes.",
+    "suggestion": "Record what the child did and any barriers observed."
+  },
+  {
+    "phrase": "ought to",
+    "variants": [
+      "really ought to",
+      "he ought to"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "low",
+    "why": "Opinion/instruction rather than record.",
+    "suggestion": "Keep recommendations in the plan or analysis, clearly labelled."
+  },
+  {
+    "phrase": "needs to understand",
+    "variants": [
+      "has to understand",
+      "must understand that"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "medium",
+    "why": "Prescriptive and assumes a deficit of understanding.",
+    "suggestion": "Record what was explained, the child's response, and any apparent understanding."
+  },
+  {
+    "phrase": "that'll teach him",
+    "variants": [
+      "that'll teach her",
+      "serves him right",
+      "serves her right"
+    ],
+    "category": "PRESCRIPTIVE",
+    "severity": "high",
+    "why": "Punitive satisfaction has no place in a child's record.",
+    "suggestion": "Remove entirely; record events and responses neutrally."
+  },
+  {
+    "phrase": "not normal",
+    "variants": [
+      "isn't normal",
+      "that's not normal",
+      "abnormal"
+    ],
+    "category": "NORMALCY JUDGEMENT",
+    "severity": "high",
+    "why": "Judges the child against an undefined norm; stigmatising.",
+    "suggestion": "Describe the behaviour specifically and note any change from the child's own baseline."
+  },
+  {
+    "phrase": "weird",
+    "variants": [
+      "was weird",
+      "being weird",
+      "weird behaviour",
+      "weirdly"
+    ],
+    "category": "NORMALCY JUDGEMENT",
+    "severity": "high",
+    "why": "Pejorative normalcy judgement.",
+    "suggestion": "Describe exactly what the child did or said."
+  },
+  {
+    "phrase": "bizarre",
+    "variants": [
+      "bizarre behaviour",
+      "bizarrely",
+      "most bizarre"
+    ],
+    "category": "NORMALCY JUDGEMENT",
+    "severity": "medium",
+    "why": "Judges rather than describes; obscures potentially significant detail.",
+    "suggestion": "Describe the behaviour precisely; unusual presentations need detail, not adjectives."
+  },
+  {
+    "phrase": "strange",
+    "variants": [
+      "acting strange",
+      "strangely",
+      "strange behaviour",
+      "very strange"
+    ],
+    "category": "NORMALCY JUDGEMENT",
+    "severity": "medium",
+    "why": "Vague normalcy judgement.",
+    "suggestion": "Describe what was unusual compared with the child's baseline, factually."
+  },
+  {
+    "phrase": "odd",
+    "variants": [
+      "acting odd",
+      "oddly",
+      "odd behaviour",
+      "a bit odd"
+    ],
+    "category": "NORMALCY JUDGEMENT",
+    "severity": "medium",
+    "why": "Judges deviation without describing it.",
+    "suggestion": "State the specific observation and what differed from usual presentation."
+  },
+  {
+    "phrase": "crazy",
+    "variants": [
+      "acting crazy",
+      "like a crazy person",
+      "crazy behaviour"
+    ],
+    "category": "NORMALCY JUDGEMENT",
+    "severity": "high",
+    "why": "Stigmatising mental-health slang.",
+    "suggestion": "Describe behaviour factually; never use 'crazy' about a child."
+  },
+  {
+    "phrase": "freaked out",
+    "variants": [
+      "freaking out",
+      "had a freak out",
+      "freak-out"
+    ],
+    "category": "NORMALCY JUDGEMENT",
+    "severity": "medium",
+    "why": "Slang that pathologises distress without describing it.",
+    "suggestion": "Describe the distress shown, the trigger and the support given."
+  },
+  {
+    "phrase": "psycho",
+    "variants": [
+      "like a psycho",
+      "went psycho",
+      "psychotic episode"
+    ],
+    "category": "NORMALCY JUDGEMENT",
+    "severity": "high",
+    "why": "Grossly stigmatising; clinical terms must never be used as insults or informally.",
+    "suggestion": "Describe the behaviour; if a mental-health concern exists, record observations and seek clinical input."
+  },
+  {
+    "phrase": "the child",
+    "variants": [
+      "the child was",
+      "the child has",
+      "the child did"
+    ],
+    "category": "DEPERSONALISATION",
+    "severity": "low",
+    "why": "Repeated impersonal reference erases the child's identity from their own record.",
+    "suggestion": "Use the child's name (or initials per local policy) throughout."
+  },
+  {
+    "phrase": "the young person",
+    "variants": [
+      "the yp",
+      "yp was",
+      "the young person was"
+    ],
+    "category": "DEPERSONALISATION",
+    "severity": "low",
+    "why": "Bureaucratic shorthand that depersonalises records children may later read.",
+    "suggestion": "Use the young person's name; avoid 'YP' abbreviations."
+  },
+  {
+    "phrase": "the subject child",
+    "variants": [
+      "subject child",
+      "the subject"
+    ],
+    "category": "DEPERSONALISATION",
+    "severity": "medium",
+    "why": "Treats the child as a case object.",
+    "suggestion": "Name the child; reserve formal designations for legal documents where required."
+  },
+  {
+    "phrase": "the minor",
+    "variants": [
+      "said minor",
+      "the said child"
+    ],
+    "category": "DEPERSONALISATION",
+    "severity": "medium",
+    "why": "Legalistic depersonalisation in everyday recording.",
+    "suggestion": "Use the child's name."
+  },
+  {
+    "phrase": "the placement",
+    "variants": [
+      "placement was",
+      "the placement is settled",
+      "placement breakdown imminent"
+    ],
+    "category": "DEPERSONALISATION",
+    "severity": "medium",
+    "why": "Refers to a child or their home as 'the placement', reducing them to a service arrangement.",
+    "suggestion": "Name the child and describe the home/carers; write as if the child will read it one day."
+  },
+  {
+    "phrase": "service user",
+    "variants": [
+      "the service user",
+      "service-user"
+    ],
+    "category": "DEPERSONALISATION",
+    "severity": "low",
+    "why": "System-centred jargon that depersonalises.",
+    "suggestion": "Use the person's name."
+  },
+  {
+    "phrase": "contact went ahead",
+    "variants": [
+      "contact took place as planned",
+      "contact occurred"
+    ],
+    "category": "DEPERSONALISATION",
+    "severity": "low",
+    "why": "Process-centred recording that says nothing about the child's experience of family time.",
+    "suggestion": "Describe how the child responded before, during and after family time."
+  }
+]

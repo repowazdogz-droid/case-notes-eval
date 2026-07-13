@@ -1,0 +1,93 @@
+{
+  "quote_suppression": {
+    "enabled": true,
+    "description": "Never flag anything inside quotation marks - the child's (or anyone's) own words must be recorded verbatim and are good practice.",
+    "quote_pairs": [
+      ["\"", "\""],
+      ["\u201c", "\u201d"],
+      ["'", "'"],
+      ["\u2018", "\u2019"]
+    ],
+    "min_quoted_words": 1
+  },
+  "qualifier_suppression": {
+    "enabled": true,
+    "description": "If a flagged term is preceded (within window_words) by an observational qualifier, suppress the match for the listed categories. 'Appeared distressed when...' is good practice; bare 'distressed/angry' is not.",
+    "window_words": 4,
+    "applies_to_categories": [
+      "EMOTIONAL LABEL",
+      "NORMALCY JUDGEMENT"
+    ],
+    "qualifiers": [
+      "appeared",
+      "appearing",
+      "seemed",
+      "seeming",
+      "looked",
+      "looking",
+      "presented as",
+      "presenting as",
+      "described feeling",
+      "described herself as",
+      "described himself as",
+      "described themselves as",
+      "said she felt",
+      "said he felt",
+      "said they felt",
+      "said she was",
+      "said he was",
+      "said they were",
+      "told me she felt",
+      "told me he felt",
+      "told staff she felt",
+      "told staff he felt",
+      "reported feeling",
+      "reported being",
+      "expressed feeling",
+      "stated she felt",
+      "stated he felt",
+      "became visibly",
+      "visibly"
+    ]
+  },
+  "trailing_evidence_suppression": {
+    "enabled": true,
+    "description": "If a flagged EMOTIONAL LABEL is immediately followed by an evidential connective, the writer is tying the label to an observation/trigger - downgrade rather than suppress by default.",
+    "mode": "downgrade",
+    "applies_to_categories": [
+      "EMOTIONAL LABEL"
+    ],
+    "window_words": 2,
+    "connectives": [
+      "when",
+      "after",
+      "because",
+      "by",
+      "during",
+      "following"
+    ]
+  },
+  "never_flag": {
+    "description": "Neutral observational vocabulary that must NEVER be flagged even if a future dataset edit accidentally overlaps. The engine checks matches against this list last.",
+    "terms": [
+      "left the room",
+      "said",
+      "completed",
+      "arrived late",
+      "arrived on time",
+      "usual carer",
+      "usual friend group",
+      "usual school",
+      "calm",
+      "engaged",
+      "ate breakfast",
+      "ate dinner",
+      "went to school",
+      "returned home",
+      "declined",
+      "did not respond",
+      "no trigger was identified",
+      "no trigger was observed"
+    ]
+  }
+}
