@@ -9,7 +9,7 @@ description = "Inspect evaluation: do LLMs writing case notes separate observati
 readme = "README.md"
 license = { text = "MIT" }
 requires-python = ">=3.11"
-authors = [{ name = "repowazdogz-droid" }]
+authors = [{ name = "Warren Smith" }]
 keywords = ["inspect", "evaluation", "llm", "safeguarding", "adversarial", "case-notes"]
 classifiers = [
   "Development Status :: 3 - Alpha",

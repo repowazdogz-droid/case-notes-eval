@@ -1,5 +1,9 @@
 # case-notes-eval
 
+[![ci](https://github.com/repowazdogz-droid/case-notes-eval/actions/workflows/ci.yml/badge.svg)](https://github.com/repowazdogz-droid/case-notes-eval/actions/workflows/ci.yml)
+[![license: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![python](https://img.shields.io/badge/python-3.11%20%7C%203.12%20%7C%203.13-blue.svg)](pyproject.toml)
+
 An [Inspect](https://inspect.aisi.org.uk/) evaluation that measures whether models
 writing professional case notes **separate observation from interpretation**, and a
 second, adversarial condition that asks the model to **carry a judgement past a
@@ -7,6 +11,12 @@ lexical validator** the author built.
 
 The grader is deterministic — no model sits in the scoring path. The rubric was
 committed to git before the first model call.
+
+Unlike a typical capability benchmark, the score comes from a fixed deterministic
+checker rather than a model judge, the rubric was pre-registered in git before any
+model was run, and the design includes an adversarial condition aimed at the checker
+itself, not only the model. The question is construct validity: whether a clean score
+means what it claims to mean.
 
 ## Purpose
 
